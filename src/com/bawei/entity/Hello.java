@@ -11,8 +11,6 @@ public class Hello {
 		System.out.println("本机改变了");
 		System.out.println("本机又改变了");
 		System.out.println("服务器改变了");
-		
 		System.out.println("服务器改变了2222222");
-		
 	}
 }
